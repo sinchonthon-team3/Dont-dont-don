@@ -8,7 +8,7 @@
 
 > **신촌톤 3팀** <br/>
 
-## 배포 주소
+## 배포 주소 : https://dont-dont-don-front.vercel.app/
 
 > 웹페이지 주소 어쩌구 저쩌구 <br>
 
