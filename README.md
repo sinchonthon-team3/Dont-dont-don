@@ -107,7 +107,7 @@ $ npm run dev
 
 |                                                        **메인 페이지**                                                         |                                                      **서비스 페이지 1**                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-| <img src="./readme/main/"/> | <img width="329" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a40b9b11-3833-4b81-8dea-9e34b10f81a7"/> |
+| <img src="/readme/main/"/> | <img width="329" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a40b9b11-3833-4b81-8dea-9e34b10f81a7"/> |
 |                                                      **서비스 페이지 2**                                                       |                                                      **서비스 페이지 3**                                                       |
 | <img width="329" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a40b9b11-3833-4b81-8dea-9e34b10f81a7"/> | <img width="329" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a40b9b11-3833-4b81-8dea-9e34b10f81a7"/> |
 
