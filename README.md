@@ -108,8 +108,8 @@ $ npm run dev
 |                                                        **메인 페이지**                                                         |                                                      **술자리 정산 페이지**                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
 | <img src="/readme/main.png"/> | <img src="/readme/friend1.png"/> <img src="/readme/friend2.png"/> |
-|                                                      **서비스 페이지 2**                                                       |                                                      **서비스 페이지 3**                                                       |
-| <img width="329" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a40b9b11-3833-4b81-8dea-9e34b10f81a7"/> | <img width="329" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a40b9b11-3833-4b81-8dea-9e34b10f81a7"/> |
+|                                                      **여행 정산 페이지**                                                       |                                                      **랜덤 정산 페이지**                                                       |
+| <img src="/readme/travel1.png"/> <img src="/readme/travel2.png"/> | <img src="/readme/random1.png"/> <img src="/readme/random2.png"/> |
 
 ---
 
